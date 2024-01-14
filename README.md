@@ -3,4 +3,4 @@
 Final Project for the course Meta Learning
 
 
-Authors: Ansh Kumar Sharma, Anunay Yadav
+Contributors: Ansh Kumar Sharma, Anunay Yadav
